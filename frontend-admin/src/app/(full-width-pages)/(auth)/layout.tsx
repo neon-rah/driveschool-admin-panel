@@ -29,7 +29,7 @@ export default function AuthLayout({
                   {/*  alt="Logo"*/}
                   {/*/>*/}
                   <div>
-                    <h2 className={"text-center font-bold text-2xl text-brand-500 dark:text-gray-500"}>DriveVision</h2>
+                    <h2 className={"text-center font-bold text-5xl text-brand-500 dark:text-gray-500"}>DriveVision</h2>
                   </div>
                 </Link>
                 <p className="text-center text-gray-400 dark:text-white/60">
